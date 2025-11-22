@@ -1,8 +1,10 @@
+![The AI Alliance banner](https://the-ai-alliance.github.io/assets/images/ai-alliance-logo-horiz-pos-blue-cmyk-trans.png)
+
 # Llama Stack Example Apps
 
-This repo contains a growing suite of example applications for <a href="https://github.com/meta-llama/llama-stack">Llama Stack</a> that demonstrate various stack features and common application patterns.
+This repo contains a growing suite of example applications for <a href="https://github.com/meta-llama/llama-stack">Llama Stack</a> that demonstrate various stack features and common application patterns. Contributions are welcome! See the note below.
 
-See the corresponding README for each example for more information. Here we summarize the examples.
+Each example has a `README` with details about what it does and how to use it. Here we summarize the examples.
 
 ## Application Examples
 
